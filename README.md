@@ -1,2 +1,2 @@
-# My-First-Rep
-My first project using GitHub
+# My First GitHub Project
+Learning Git step by step. Super fun!
